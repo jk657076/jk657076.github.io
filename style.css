@@ -74,3 +74,15 @@ h3 {
 section ul {
   margin-top: 10px;
 }
+section {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 24px;
+}
+
+section:last-child {
+  border-bottom: none;
+}
+
+strong {
+  color: #444;
+}
