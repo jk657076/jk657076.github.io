@@ -67,3 +67,10 @@ section {
 h2 {
   margin-bottom: 10px;
 }
+h3 {
+  margin-top: 10px;
+}
+
+section ul {
+  margin-top: 10px;
+}
